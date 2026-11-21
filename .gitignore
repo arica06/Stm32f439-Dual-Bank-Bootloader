@@ -1,0 +1,15 @@
+# build output
+*.o
+*.elf
+*.bin
+*.map
+Debug/
+Release/
+build/
+
+# python
+__pycache__/
+.pytest_cache/
+
+# CI checkouts
+deps/
