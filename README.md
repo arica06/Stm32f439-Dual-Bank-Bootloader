@@ -1,6 +1,6 @@
 # STM32F439 Dual-Bank (A/B) Bootloader
 
-[![CI](https://github.com/arica06/Stm32f439-Dual-Bank-Boot/actions/workflows/ci.yml/badge.svg)](https://github.com/arica06/Stm32f439-Dual-Bank-Boot/actions/workflows/ci.yml)
+[![CI](https://github.com/arica06/Stm32f439-Dual-Bank-Bootloader/actions/workflows/ci.yml/badge.svg)](https://github.com/arica06/Stm32f439-Dual-Bank-Bootloader/actions/workflows/ci.yml)
 
 A/B firmware updates over UART for the STM32F439 (target board: NUCLEO-F439ZI) using the
 chip's two flash banks. A new image is written to the inactive bank while the old one stays
